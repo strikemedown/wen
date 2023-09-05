@@ -1,0 +1,38 @@
+body {
+	background-image: url(mm.jpeg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.urmom {
+	color:black;
+	text-align:center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:24px;
+	background-image: url(ted.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size: 300px;
+}
+.end {
+	color:black;
+	font:italic;
+	font-size:12px;
+	float:right;
+}
+h1 {
+	font-size: 60px;
+	color: black;
+}
+.description {
+	font-size: 30px;
+	color: black;
+}
+.image {
+	width: 500px;
+	height: 500px;
+}
+.yea {
+	color: black;
+	font-size: 30px;
+}

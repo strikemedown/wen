@@ -1,0 +1,26 @@
+body {
+    background-image: url(thanks.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.st {
+    background-image: url(ban.png);
+    background-size: 600px;
+    background-repeat:no-repeat;
+    background-position: center;   
+}
+h1{
+    font-size: 50px;
+}
+.nd {
+    background-image: url(pump.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size:auto
+}
+p {
+    font-size: 30px;
+}
+img{
+    float: right;
+}

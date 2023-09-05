@@ -1,0 +1,36 @@
+body {
+    background-image: url(4thb.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: black;
+    font-size: 35px;
+    background-image: url(blue.png);
+    background-size: contain;
+}
+.glow {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+    background-image: url(flag.jpg);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+@keyframes glow {
+    from {
+        text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red, 0 0 50px red, 0 0 60px red, 0 0 70px red;
+    }
+    
+    to {
+      text-shadow: 0 0 20px blue, 0 0 30px blue, 0 0 40px blue, 0 0 50px blue, 0 0 60px blue, 0 0 70px blue, 0 0 80px blue;
+    }
+}
+div{
+    background-image: url(flag.jpg);
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

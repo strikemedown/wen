@@ -1,0 +1,34 @@
+body {
+	background-image: url(saintp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+	text-align:center;
+	color:black;
+	text-shadow: -1px -1px #fff, 1px -1px #fff, -1px 1px #fff, 1px 1px #fff;
+	font-size: 46px;
+}
+.back 
+	{
+	float: right;
+	color:black;
+	}
+h2 {
+	font-family: 'Luckiest Guy', cursive;
+	color:black;
+	font-size: 42px;
+	text-shadow: -1px -1px #fff, 1px -1px #fff, -1px 1px #fff, 1px 1px #fff;
+}
+ul {
+	text-align:left;
+	color:black;
+	font-size:35px;
+}
+img {
+	float: right;
+}
+.vid{
+	text-align: center;
+}
